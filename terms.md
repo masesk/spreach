@@ -1,8 +1,8 @@
-# Spreach by Mases Krikorian – Terms of Use
+# Spreach – Terms of Use
 
 *Last updated: November 16, 2025*
 
-Welcome to **Spreach**, a text‑to‑speech application developed by **Mases Krikorian**. By using Spreach, you agree to the following Terms of Use. Please read them carefully.
+Welcome to **Spreach**, a text‑to‑speech application for iOS. By using Spreach, you agree to the following Terms of Use. Please read them carefully.
 
 ---
 
@@ -58,11 +58,11 @@ After the trial expires, you may purchase **Spreach Premium** as a one-time, non
 
 ### 7.3 Payment Processing
 
-All purchases are processed through Apple's App Store. Payment is charged to your Apple ID account upon confirmation of purchase. Mases Krikorian does not process, store, or have access to your payment information.
+All purchases are processed through Apple's App Store. Payment is charged to your Apple ID account upon confirmation of purchase. Spreach / Mases Krikorian does not process, store, or have access to your payment information.
 
 ### 7.4 Refunds
 
-Refund requests must be made through Apple's App Store, as Mases Krikorian cannot process refunds directly. Please refer to Apple's refund policy for eligibility.
+Refund requests must be made through Apple's App Store, as Spreach / Mases Krikorian cannot process refunds directly. Please refer to Apple's refund policy for eligibility.
 
 ### 7.5 No Subscription
 

@@ -1,4 +1,4 @@
-# Spreach by Mases Krikorian – Privacy Policy
+# Spreach – Privacy Policy
 
 *Last updated: November 16, 2025*
 
@@ -56,7 +56,7 @@ When you start your 30-day free trial, the trial start date is stored **locally 
 When you purchase Spreach Premium through the App Store:
 
 * Payment processing is handled entirely by Apple
-* Mases Krikorian does not collect, process, or store your payment information
+* Spreach does not collect, process, or store your payment information
 * Apple may provide transaction receipts to verify your purchase, which are validated locally on your device
 * No personal payment data is accessible to or stored by Spreach
 
@@ -88,7 +88,7 @@ Spreach does not knowingly collect personal data from children. If you believe i
 
 ## 9. Policy Changes
 
-We may update this Privacy Policy from time to time. Any changes will be reflected within the app or on masesk.com.
+We may update this Privacy Policy from time to time. Any changes will be reflected within the app or on spreach.app.
 
 ---
 
