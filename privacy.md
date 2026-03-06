@@ -1,6 +1,6 @@
 # Spreach – Privacy Policy
 
-*Last updated: November 16, 2025*
+*Last updated: March 6, 2026*
 
 Your privacy matters. This Privacy Policy explains how Spreach collects, stores, and uses information.
 
@@ -67,6 +67,9 @@ Purchase verification is performed using Apple's StoreKit 2 framework and occurs
 ## 6. Third‑Party Services
 
 Spreach does not integrate with external analytics, cloud services, or advertising networks. The Kokoro 82M model is packaged within the app and runs locally.
+
+### 6.1 Hosting and Repository Services
+The Spreach Terms of Use, Privacy Policy, and all associated voice samples are hosted on GitHub. By accessing these documents or utilizing the voice sample repository, you acknowledge that your interaction with these materials is subject to GitHub’s Terms of Service and Privacy Statement. While Spreach itself does not collect your data, GitHub may collect certain diagnostic and usage information as outlined in their respective policies.
 
 **Apple App Store**: Purchases are processed through Apple's App Store, which is subject to Apple's Privacy Policy.
 
